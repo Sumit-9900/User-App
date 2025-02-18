@@ -20,7 +20,7 @@ Users App is a Flutter application that fetches a list of users from a public AP
 
 | Home Screen (Light) | Home Screen (Dark) | User Details (Light) | User Details (Dark) |
 |---------------------|--------------------|----------------------|---------------------|
-| ![Home Light](https://github.com/user-attachments/assets/343dfc80-ff25-4904-a6e4-8b3794aa578c) | ![Home Dark](screenshots/home_dark.png) | ![Details Light](screenshots/details_light.png) | ![Details Dark](screenshots/details_dark.png) |
+| ![Home Light](https://github.com/user-attachments/assets/343dfc80-ff25-4904-a6e4-8b3794aa578c) | ![Home Dark](https://github.com/user-attachments/assets/db6cddb7-44d8-4ba1-8977-c142ec595835) | ![Details Light](https://github.com/user-attachments/assets/8eefaf7b-1f7a-4c0e-9c45-a3cca0fa68ca) | ![Details Dark](https://github.com/user-attachments/assets/06823a0c-e1b2-4b26-88f1-fce942e84e2f) |
 
 ---
 
